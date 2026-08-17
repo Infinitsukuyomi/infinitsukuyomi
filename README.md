@@ -17,7 +17,7 @@
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<h3>📊 Stats</h3>
+<h3>📊 Languages and Stats</h3>
 <table>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/java/FFFFFF" width="32" /><br /><sub>Java</sub></td>
@@ -47,7 +47,6 @@
 <div align="center">
 <img src="https://www.gitskins.com/api/section/stack?username=Muhib-Mehdi&theme=neon&style=aura" alt="language stack" />
 <br>
-<img src="https://www.gitskins.com/api/readme-reference/technology-stack?logos=Java%2CPython%2CC%2B%2B%2CC%2CArduino%2CMySQL%2CNode.js%2CHTML5%2CCSS3%2CJavaScript&v=local-logo-grid-1" alt="technology stack" />
 </div>
 
 ## 📌 Featured Projects
