@@ -21,16 +21,16 @@
 <table>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/java/FFFFFF" width="32" /><br /><sub>Java</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/python/FFFFFF" width="32" /><br /><sub>Python</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="32" /><br /><sub>C++</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/c/FFFFFF" width="32" /><br /><sub>C</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/arduino/FFFFFF" width="32" /><br /><sub>Arduino</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="32" /><br /><sub>MySQL</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" width="32" /><br /><sub>Node.js</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/python/FFFFFF" width="32" /><br /><sub>Python</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/arduino/FFFFFF" width="32" /><br /><sub>Arduino</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" width="32" /><br /><sub>Node.js</sub></td></tr>
+<tr>
 <td align="center"><img src="https://cdn.simpleicons.org/html5/FFFFFF" width="32" /><br /><sub>HTML5</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/css3/FFFFFF" width="32" /><br /><sub>CSS3</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/css/FFFFFF" width="32" /><br /><sub>CSS3</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="32" /><br /><sub>JavaScript</sub></td>
 </tr>
 </table>
