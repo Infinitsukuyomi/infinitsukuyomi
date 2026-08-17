@@ -17,7 +17,6 @@
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<h3>📊 Languages</h3>
 <table>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/java/FFFFFF" width="32" /><br /><sub>Java</sub></td>
