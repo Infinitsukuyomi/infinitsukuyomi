@@ -37,15 +37,6 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
-<img src="https://www.gitskins.com/api/section/projects?username=Muhib-Mehdi&theme=neon" alt="featured projects" width="100%" />
-</div>
-
-<!-- FALLBACK: the projects widget above pulls live from gitskins and can fail to
-     render depending on your browser/extensions. If it shows a broken image icon,
-     delete the <div>...</div> block above and delete the comment markers below to
-     use this static language-logo grid instead.
-
 <table align="center">
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/java/FFFFFF" width="40" /><br /><sub>Java</sub></td>
@@ -62,8 +53,6 @@
 <td align="center"><img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" /><br /><sub>JavaScript</sub></td>
 </tr>
 </table>
-
--->
 
 ## 📈 Activity & Heatmap
 
