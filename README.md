@@ -16,7 +16,7 @@
 <td width="50%" align="center">
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/openjdk/FFFFFF" width="32" /><br /><sub>Java</sub></td>
+<td align="center"><img src="https://img.icons8.com/ios7/50/ffffff/java-coffee-cup-logo--v1.png" width="32" /><br /><sub>Java</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="32" /><br /><sub>C++</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/c/FFFFFF" width="32" /><br /><sub>C</sub></td>
 </tr>
