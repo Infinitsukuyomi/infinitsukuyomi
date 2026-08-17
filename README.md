@@ -25,8 +25,8 @@
 <td align="center"><img src="https://cdn.simpleicons.org/arduino/FFFFFF" width="32" /><br /><sub>Arduino</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" width="32" /><br /><sub>Node.js</sub></td></tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/html5/FFFFFF" width="32" /><br /><sub>HTML5</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/css/FFFFFF" width="32" /><br /><sub>CSS3</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/html5/FFFFFF" width="32" /><br /><sub>HTML</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/css/FFFFFF" width="32" /><br /><sub>CSS</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="32" /><br /><sub>JavaScript</sub></td>
 </tr>
 </table>
