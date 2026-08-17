@@ -1,31 +1,43 @@
-<!-- README variant 5/5 — Sidebar layout — theme: RETRO -->
+<!-- README variant 3/5 — Split Grid layout — theme: NEON -->
 <!-- Generated for github.com/Muhib-Mehdi -->
 
-<table>
+<table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
-
-<img src="https://www.gitskins.com/api/section/portrait?username=Muhib-Mehdi&theme=retro&style=terminal" alt="portrait" width="200" />
-
-<img src="https://www.gitskins.com/api/section/wordmark?username=Muhib-Mehdi&theme=retro&style=terminal" alt="Muhib Mehdi" />
+<td width="38%" align="center">
+<img src="https://www.gitskins.com/api/section/portrait?username=Muhib-Mehdi&theme=neon&style=terminal" alt="portrait" width="220" />
+</td>
+<td width="62%" align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=Muhib-Mehdi&theme=neon&style=terminal" alt="Muhib Mehdi" />
+<br><br>
+<sub>Building with Python on GitHub</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://www.gitskins.com/api/readme-reference/competitive?username=Muhib-Mehdi&theme=retro&v=competitive-layout-2" alt="competitive programming stats" width="100%" />
-
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<h3>📊 Stats</h3>
+<img src="https://www.gitskins.com/api/readme-reference/character-overview?username=Muhib-Mehdi&theme=neon&avatarVariant=0&characters=terminal-hacke&layout=arc&lightning=subtle&v=character-overview-4" alt="character overview / stats" width="100%" />
 </td>
-<td width="70%" valign="top">
+<td width="50%" align="center">
+<h3>🏆 Competitive</h3>
+<img src="https://www.gitskins.com/api/readme-reference/competitive?username=Muhib-Mehdi&theme=neon&v=competitive-layout-2" alt="competitive programming stats" width="100%" />
+</td>
+</tr>
+</table>
 
-### 📊 Overview
+## 🧰 Stack
 
-<img src="https://www.gitskins.com/api/readme-reference/character-overview?username=Muhib-Mehdi&theme=retro&avatarVariant=0&characters=terminal-hacke&layout=arc&lightning=subtle&v=character-overview-4" alt="character overview / stats" width="100%" />
+<div align="center">
+<img src="https://www.gitskins.com/api/section/stack?username=Muhib-Mehdi&theme=neon&style=aura" alt="language stack" />
+<br>
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?logos=Java%2CPython%2CC%2B%2B%2CC%2CArduino%2CMySQL&v=local-logo-grid-1" alt="technology stack" />
+</div>
 
-### 🧰 Tech Stack
-
-<img src="https://www.gitskins.com/api/section/stack?username=Muhib-Mehdi&theme=retro&style=aura" alt="language stack" width="100%" />
-<img src="https://www.gitskins.com/api/readme-reference/technology-stack?logos=Java%2CPython%2CC%2B%2B%2CC%2CArduino%2CMySQL&v=local-logo-grid-1" alt="technology stack" width="100%" />
-
-### 🚀 Featured Projects
+## 📌 Featured Projects
 
 <table>
 <tr><th>Project</th><th>Stack</th><th>About</th></tr>
@@ -37,20 +49,17 @@
 <tr><td><b>MehdiOS</b></td><td>C</td><td>A systems-level project exploring OS fundamentals.</td></tr>
 </table>
 
-### 📈 Contribution Activity
+## 📈 Activity & Heatmap
 
-<img src="https://www.gitskins.com/api/readme-reference/activity-graph?username=Muhib-Mehdi&theme=retro" alt="activity graph" width="100%" />
-
-### 🔥 Heatmap
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=Muhib-Mehdi&theme=retro&style=aura" alt="contribution heatmap" width="100%" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://www.gitskins.com/api/readme-reference/activity-graph?username=Muhib-Mehdi&theme=neon" alt="activity graph" />
+</p>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=Muhib-Mehdi&theme=neon&style=aura" alt="contribution heatmap" />
+</p>
 
 <br>
 
 <div align="center">
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=Muhib-Mehdi&theme=retro&role=AI%20ENGINEER%20%C2%B7%20SYSTEMS%20BUILDER" alt="footer" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=Muhib-Mehdi&theme=neon&role=AI%20ENGINEER%20%C2%B7%20SYSTEMS%20BUILDER" alt="footer" />
 </div>
