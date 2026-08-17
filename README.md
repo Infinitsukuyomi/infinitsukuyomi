@@ -8,8 +8,6 @@
 </td>
 <td width="62%" align="center">
 <img src="https://www.gitskins.com/api/section/wordmark?username=Muhib-Mehdi&theme=neon&style=terminal" alt="Muhib Mehdi" />
-<br><br>
-<sub>Building with Python on GitHub</sub>
 </td>
 </tr>
 </table>
@@ -34,20 +32,38 @@
 <div align="center">
 <img src="https://www.gitskins.com/api/section/stack?username=Muhib-Mehdi&theme=neon&style=aura" alt="language stack" />
 <br>
-<img src="https://www.gitskins.com/api/readme-reference/technology-stack?logos=Java%2CPython%2CC%2B%2B%2CC%2CArduino%2CMySQL&v=local-logo-grid-1" alt="technology stack" />
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?logos=Java%2CPython%2CC%2B%2B%2CC%2CArduino%2CMySQL%2CNode.js%2CHTML5%2CCSS3%2CJavaScript&v=local-logo-grid-1" alt="technology stack" />
 </div>
 
 ## 📌 Featured Projects
 
-<table>
-<tr><th>Project</th><th>Stack</th><th>About</th></tr>
-<tr><td><b>AI-Java-Decompiler</b></td><td>Java</td><td>Modern Java decompiler powered by Groq/Gemini/OpenRouter APIs with ASM-based analysis, streaming output and batch processing.</td></tr>
-<tr><td><b>OSINT-NEXUS</b></td><td>Python</td><td>Cross-platform OSINT tool with AI-driven entity correlation, graph analytics, breach intelligence and reporting — built with PyQt6.</td></tr>
-<tr><td><b>ASL-Recognition-System</b></td><td>Jupyter Notebook</td><td>Real-time ASL gesture recognition using TensorFlow Lite, OpenCV & MediaPipe — translates webcam hand landmarks into A-Z letters.</td></tr>
-<tr><td><b>O.R.C.A.-DECK</b></td><td>C</td><td>An omniscient real-time companion agent that automates tasks — part assistant, part study companion.</td></tr>
-<tr><td><b>Ray-Tracer</b></td><td>CMake / C</td><td>A ray tracing renderer built from scratch.</td></tr>
-<tr><td><b>MehdiOS</b></td><td>C</td><td>A systems-level project exploring OS fundamentals.</td></tr>
+<div align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=Muhib-Mehdi&theme=neon" alt="featured projects" width="100%" />
+</div>
+
+<!-- FALLBACK: the projects widget above pulls live from gitskins and can fail to
+     render depending on your browser/extensions. If it shows a broken image icon,
+     delete the <div>...</div> block above and delete the comment markers below to
+     use this static language-logo grid instead.
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/java/FFFFFF" width="40" /><br /><sub>Java</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/python/FFFFFF" width="40" /><br /><sub>Python</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="40" /><br /><sub>C++</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/c/FFFFFF" width="40" /><br /><sub>C</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/arduino/FFFFFF" width="40" /><br /><sub>Arduino</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="40" /><br /><sub>MySQL</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" width="40" /><br /><sub>Node.js</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/html5/FFFFFF" width="40" /><br /><sub>HTML5</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/css3/FFFFFF" width="40" /><br /><sub>CSS3</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" /><br /><sub>JavaScript</sub></td>
+</tr>
 </table>
+
+-->
 
 ## 📈 Activity & Heatmap
 
