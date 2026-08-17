@@ -1,6 +1,3 @@
-<!-- README variant 3/5 — Split Grid layout — theme: NEON -->
-<!-- Generated for github.com/Muhib-Mehdi -->
-
 <table width="100%">
 <tr>
 <td width="38%" align="center">
